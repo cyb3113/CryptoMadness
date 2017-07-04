@@ -2,7 +2,9 @@
 ## ![text3459](https://user-images.githubusercontent.com/19938761/27015524-b127eb14-4ee5-11e7-9f27-90e5d61fa0b8.png)
 
 
-**NOTE 1:** Hi, this the first time I contribute to  Mozilla Global Sprint.  In fact, I joined as Mozilla volunteer recently.
+**NOTE 1:** 
+
+Hi, this the first time I contribute to  Mozilla Global Sprint.  In fact, I joined as Mozilla volunteer recently.
 
 I'm an enthusiast of cryptography, privacy and safety on web.  Despite I know so little, I want to help others to understand how important and fundamental is to know how to be protected and safe on internet.  For a couple of years I'm volunteer in a big crypto party, this encouraged me to contribute with this project.
 
@@ -12,13 +14,17 @@ To write te text I used the Zilla font.
 
 I hope you enjoy it and develop more intricate ciphers.
 
-**NOTE 2:** Since English is not my mother language, the following text may have grammar errors and be a little weird sometimes.  However, since this is an open project I’m very happy to hear comments, suggestions, critics… 
+**NOTE 2:** 
+
+Since English is not my mother language, the following text may have grammar errors and be a little weird sometimes.  However, since this is an open project I’m very happy to hear comments, suggestions, critics… 
 
 The main purpose of this project is to teach - I suggest the mentoring in a playful way, creating stories, introducing concepts in a very simple way. In any case, it can be reshaped to different target audiences - the importance of privacy and safety,  and to introduce cryptography, to later encourage people to use modern cryptography/ stenography and better privacy customs. 
 
 This is a multidisciplinary project, along with the techniques of cryptography/ steganography, privacy, and safety, can be used to teach history, math, literature, geography…
 
-**NOTE 3:** I am proposing two activities, that are indicated to participants from the age of 12.
+**NOTE 3:** 
+
+I am proposing two activities, that are indicated to participants from the age of 12.
 
 The first, **Cipher Fun Wheel**, a amusing activity where groups of 3-4 people will participate. A situation will be created in which 1 participant will write an encrypted message using the cipher wheel and hide its contents (steganography), the receiver and 1 or 2 others will try to intercept and decode the message.
 
@@ -35,7 +41,10 @@ Geraldo Barros: Tests & Feedback
 
 Cynthia Pereira: Front-end Developer & Communication
 
-**[Participation Guidelines](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/blob/master/CODE_OF_CONDUCT.md)**
+**[PARTICIPATION GUIDELINES](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/blob/master/CODE_OF_CONDUCT.md)**
+
+
+![rect4136](https://user-images.githubusercontent.com/19938761/27843481-7414de6e-60ea-11e7-85a6-1f229fc3e44d.png)
 
 **How to play**
 
@@ -55,6 +64,7 @@ Cynthia Pereira: Front-end Developer & Communication
 
 
 
+![rect4136](https://user-images.githubusercontent.com/19938761/27843481-7414de6e-60ea-11e7-85a6-1f229fc3e44d.png)
 
 **MOZILA GLOBAL SPRINT 2017**
 
