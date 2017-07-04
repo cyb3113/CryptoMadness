@@ -44,7 +44,16 @@ Cynthia Pereira: Front-end Developer & Communication
 - Or if you feel audacious, you can print the **cipher-fun-wheel-freedom-template.svg** and remix as you want.
 
 
-[CIPHER FUN WHEEL.pdf](https://github.com/mozillabrasil/sao-paulo/files/1123036/CIPHER.FUN.WHEEL.pdf)
+![cipher fun wheel-1](https://user-images.githubusercontent.com/19938761/27843403-85245082-60e9-11e7-9842-99c4e33ca4c3.png)
+![cipher fun wheel-2](https://user-images.githubusercontent.com/19938761/27843404-85250748-60e9-11e7-91b6-c0e2b33f1c83.png)
+![cipher fun wheel-3](https://user-images.githubusercontent.com/19938761/27843405-852703ae-60e9-11e7-925d-b31f2022774b.png)
+![cipher fun wheel-4](https://user-images.githubusercontent.com/19938761/27843406-852a3bf0-60e9-11e7-8a46-2027712d0e7f.png)
+![cipher fun wheel-5](https://user-images.githubusercontent.com/19938761/27843407-852edfb6-60e9-11e7-870e-31e90d594b1a.png)
+![cipher fun wheel-6](https://user-images.githubusercontent.com/19938761/27843408-8532273e-60e9-11e7-9557-4c49048d9482.png)
+![cipher fun wheel-7](https://user-images.githubusercontent.com/19938761/27843410-8540f584-60e9-11e7-8cca-83e92f448bc2.png)
+![cipher fun wheel-8](https://user-images.githubusercontent.com/19938761/27843409-85403dc4-60e9-11e7-88e1-6144e4d38866.png)
+
+
 
 
 **MOZILA GLOBAL SPRINT 2017**
