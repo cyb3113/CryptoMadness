@@ -17,7 +17,7 @@ Once they understand how encryption work in the offline world, it's time to teac
 - Or if you feel audacious, you can print the **cipher-fun-wheel-freedom-template.svg** and remix as you want.
 
 
-**How to create strong, safe and easy to remember passphases using the CRAZY DICEWARE**
+**How to create strong, safe and easy to remember passphrases using the CRAZY DICEWARE**
 
 - You can find everything you need to know int the **[CRAZY DICEWARE booklet](https://github.com/cyb3113/venus/files/1129427/crazy-diceware-booklet.pdf)**
 
