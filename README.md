@@ -1,14 +1,34 @@
-# ![text3459](https://user-images.githubusercontent.com/19938761/27015459-6ca9b7f2-4ee4-11e7-910f-2042ab88cb9c.png)
-## ![text3459](https://user-images.githubusercontent.com/19938761/27015524-b127eb14-4ee5-11e7-9f27-90e5d61fa0b8.png)
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/19938761/27933563-5d3d407a-6278-11e7-805e-ff34c353fdb8.png">
+</p>
 
+These two activities are indicated from age 12.  The purpose is to introduce the concepts of encryption, steganography, security and privacy.
+
+The first is Cipher Fun Wheel, a playful activity where groups of 3-4 people participate. A situation will be created – from a story the participants will made up - in which 1 participant writes an encrypted message using the cipher wheel and conceals its content (steganography), the recipient and 1 or 2 others attempt to intercept and decode a message.
+
+The goal is to understand how hard it is to break down strong encryption in addition to discovering that a message is concealed.
+
+Once they understand how encryption work in the offline world, it's time to teach how to create strong and easy-to-remember passwords using cryptographic keys with the Diceware method.
+
+**How to play CIPHER FUN WHEEL**
+
+- Print the **cipher-fun-wheel-template.png**, cut and join the wheel;
+
+- Or if you feel audacious, you can print the **cipher-fun-wheel-freedom-template.svg** and remix as you want.
+
+
+**How to create strong, safe and easy to remember passphases using the CRAZY DICEWARE**
+
+- You can find everything you need to know int the **[CRAZY DICEWARE booklet](https://github.com/cyb3113/venus/files/1129427/crazy-diceware-booklet.pdf)**
 
 **NOTE 1:** 
 
 Hi, this the first time I contribute to  Mozilla Global Sprint.  In fact, I joined as Mozilla volunteer recently.
 
-I'm an enthusiast of cryptography, privacy and safety on web.  Despite I know so little, I want to help others to understand how important and fundamental is to know how to be protected and safe on internet.  For a couple of years I'm volunteer in a big crypto party, this encouraged me to contribute with this project.
+I'm an enthusiast of cryptography, privacy and safety on web. For a couple of years I'm volunteer in a big crypto party, this encouraged me to contribute with this project.
 
-In this cipher wheel I used some math symbols, prime numbers, letter and unicode emojis. My main inspiration for my wheel is the Cipher Mexican Wheel. 
+In the **Cipher Fun Wheel** I used some math symbols, prime numbers, letter and unicode emojis. My main inspiration  is the cipher mexican wheel. In the **Crazy Diceware**, I adapted from ThoughtWorks Dadoware and the wordlist from Eletronic Frontier Foundation
+
 
 To write te text I used the Zilla font.
 
@@ -22,17 +42,7 @@ The main purpose of this project is to teach - I suggest the mentoring in a play
 
 This is a multidisciplinary project, along with the techniques of cryptography/ steganography, privacy, and safety, can be used to teach history, math, literature, geography…
 
-**NOTE 3:** 
 
-I am proposing two activities, that are indicated to participants from the age of 12.
-
-The first, **Cipher Fun Wheel**, a amusing activity where groups of 3-4 people will participate. A situation will be created in which 1 participant will write an encrypted message using the cipher wheel and hide its contents (steganography), the receiver and 1 or 2 others will try to intercept and decode the message.
-
-A possible situation may be a spy (whom writes the message), the ally (who receives the message) and 2 enemies who will try to intercept and decipher the message. However, the story can be adapted according to the participants.
-
-The purpose is introduce and stimulat the understanding of  how hard it is to break down strong encryption and  the benefits of concealing a important message, and so important as this, is how essential the privacy is.
-
-The second activity, complementing the Cipher Fun Wheel, is learning how to create Passphrases (a very strong password!) using **Diceware** technique.
 
 
 **Credits:**
@@ -46,21 +56,6 @@ Cynthia Pereira: Front-end Developer & Communication
 
 ![rect4136](https://user-images.githubusercontent.com/19938761/27843481-7414de6e-60ea-11e7-85a6-1f229fc3e44d.png)
 
-**How to play**
-
-- Print the **cipher-fun-wheel-template.png**, cut and join the wheel;
-
-- Or if you feel audacious, you can print the **cipher-fun-wheel-freedom-template.svg** and remix as you want.
-
-
-![cipher fun wheel-1](https://user-images.githubusercontent.com/19938761/27843403-85245082-60e9-11e7-9842-99c4e33ca4c3.png)
-![cipher fun wheel-2](https://user-images.githubusercontent.com/19938761/27843404-85250748-60e9-11e7-91b6-c0e2b33f1c83.png)
-![cipher fun wheel-3](https://user-images.githubusercontent.com/19938761/27843405-852703ae-60e9-11e7-925d-b31f2022774b.png)
-![cipher fun wheel-4](https://user-images.githubusercontent.com/19938761/27843406-852a3bf0-60e9-11e7-8a46-2027712d0e7f.png)
-![cipher fun wheel-5](https://user-images.githubusercontent.com/19938761/27843407-852edfb6-60e9-11e7-870e-31e90d594b1a.png)
-![cipher fun wheel-6](https://user-images.githubusercontent.com/19938761/27843408-8532273e-60e9-11e7-9557-4c49048d9482.png)
-![cipher fun wheel-7](https://user-images.githubusercontent.com/19938761/27843410-8540f584-60e9-11e7-8cca-83e92f448bc2.png)
-![cipher fun wheel-8](https://user-images.githubusercontent.com/19938761/27843409-85403dc4-60e9-11e7-88e1-6144e4d38866.png)
 
 
 
