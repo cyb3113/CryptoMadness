@@ -42,8 +42,9 @@ The main purpose of this project is to teach - I suggest the mentoring in a play
 
 This is a multidisciplinary project, along with the techniques of cryptography/ steganography, privacy, and safety, can be used to teach history, math, literature, geography…
 
-
-
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/19938761/27843481-7414de6e-60ea-11e7-85a6-1f229fc3e44d.png">
+</p>
 
 **Credits:**
 
@@ -53,13 +54,11 @@ Cynthia Pereira: Front-end Developer & Communication
 
 **[PARTICIPATION GUIDELINES](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/blob/master/CODE_OF_CONDUCT.md)**
 
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/19938761/27843481-7414de6e-60ea-11e7-85a6-1f229fc3e44d.png">
+</p>
 
-![rect4136](https://user-images.githubusercontent.com/19938761/27843481-7414de6e-60ea-11e7-85a6-1f229fc3e44d.png)
 
-
-
-
-![rect4136](https://user-images.githubusercontent.com/19938761/27843481-7414de6e-60ea-11e7-85a6-1f229fc3e44d.png)
 
 **MOZILA GLOBAL SPRINT 2017**
 
