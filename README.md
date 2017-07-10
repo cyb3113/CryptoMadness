@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/19938761/27933563-5d3d407a-6278-11e7-805e-ff34c353fdb8.png">
+  <img  src="https://user-images.githubusercontent.com/19938761/28037138-d10180fa-6590-11e7-9028-fb5c782f95f2.png">  
 </p>
 
 These two activities are indicated from age 12.  The purpose is to introduce the concepts of encryption, steganography, security and privacy.
