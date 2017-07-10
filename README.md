@@ -14,14 +14,16 @@ Once they understand how encryption work in the offline world, it's time to teac
 
 **How to play CIPHER FUN WHEEL**
 
-- Print the **cipher-fun-wheel-template.png**, cut and join the wheel;
+- Read **[Cipher Fun Wheel pdf](https://github.com/cyb3113/CryptoMadness/files/1136297/CIPHER.FUN.WHEEL.pdf)**
 
-- Or if you feel audacious, you can print the **cipher-fun-wheel-freedom-template.svg** and remix as you want.
+- Print the **[cipher-fun-wheel-template.png](https://user-images.githubusercontent.com/19938761/28027799-d2ce7e08-6570-11e7-8624-91b89e386f16.png)**, cut and join the wheel;
+
+- Or if you feel audacious, you can remix and print the **[cipher-fun-wheel-freedom-template.svg](https://user-images.githubusercontent.com/19938761/28027800-d3d3d226-6570-11e7-86c4-f2f351955cc2.png)** as you want.
 
 
 **How to create strong, safe and easy to remember passphrases using the CRAZY DICEWARE**
 
-- You can find everything you need to know int the **[CRAZY DICEWARE booklet](https://github.com/cyb3113/venus/files/1129427/crazy-diceware-booklet.pdf)**
+- Read and use the **[CRAZY DICEWARE booklet](https://github.com/cyb3113/venus/files/1129427/crazy-diceware-booklet.pdf)**
 
 **NOTE 1:** 
 
@@ -54,7 +56,9 @@ Geraldo Barros: Tests & Feedback
 
 Cynthia Pereira: Front-end Developer & Communication
 
-**[PARTICIPATION GUIDELINES](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/blob/master/CODE_OF_CONDUCT.md)**
+
+Please read the  **[PARTICIPATION GUIDELINES](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/blob/master/CODE_OF_CONDUCT.md)**
+
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/19938761/27843481-7414de6e-60ea-11e7-85a6-1f229fc3e44d.png">
