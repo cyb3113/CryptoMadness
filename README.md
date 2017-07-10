@@ -4,12 +4,11 @@
 
 These two activities are indicated from age 12.  The purpose is to introduce the concepts of encryption, steganography, security and privacy.
 
-The first is Cipher Fun Wheel, a playful activity where groups of 3-4 people participate. A situation will be created – from a story the participants will made up - in which 1 participant writes an encrypted message using the cipher wheel and conceals its content (steganography), the recipient and 1 or 2 others attempt to intercept and decode a message.
+The first, Cipher Fun Wheel, a playful activity where groups of 3-4 people participate. A situation will be created – from a story they  will made up - in which 1 participant writes an encrypted message using the cipher wheel and conceals its content writing with lemon juice (steganography), the recipient and 1 or 2 others attempt to intercept and decode a message.
 
-The goal in the "Cipher Fun Wheel" is to introduce the participants in cryptography and steganography.  They will understand how hard it is to break down strong encryption in addition to discovering that a message is concealed.
+The goal is to introduce the participants to cryptography, steganography, and show how important is to keep safe and private the content of a message.  Also, they will understand how hard it is to break down strong encryption and concealed  message.
 
-Once they understand how encryption work in the offline world, it's time to teach how to create strong and easy-to-remember passwords using cryptographic keys with the Diceware method to use online.   Also, it is very important at this moment provide tips about HTTPS and 2-factor authentication.
-
+Once they understand how encryption work in the offline world, it's time to teach how to create strong and easy-to-remember passwords using cryptographic keys with the Diceware method - Crazy Diceware - to use online.   It is very important at this moment provide tips about HTTPS and 2-factor authentication.
 
 
 **How to play CIPHER FUN WHEEL**
