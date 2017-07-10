@@ -22,7 +22,7 @@ Once they understand how encryption work in the offline world, it's time to teac
 
 **How to create strong, safe and easy to remember passphrases using the CRAZY DICEWARE**
 
-- Read and use the **[CRAZY DICEWARE booklet](https://github.com/cyb3113/venus/files/1129427/crazy-diceware-booklet.pdf)**
+- Read and use the **[CRAZY DICEWARE booklet](https://github.com/cyb3113/CryptoMadness/files/1137262/CRAZY-DICEWARE-BOOKLET1.pdf)**
 
 **NOTE 1:** 
 
